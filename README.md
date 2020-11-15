@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://media.giphy.com/media/LXHJRRjnviw7e/giphy.gif" width="50%"></img>
 </div>
-### Hi there 👋
+
 
 
 Here are some ideas to get you started:
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
   - Telegram : [@Khairunarkham](https://t.me/khairunarkham)
   - linkedin : [@Khairunarkham](https://www.linkedin.com/in/khairunarkham)
 <!--
+### Hi there 👋
 **97arkham/97arkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
