@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/aq4UIzFPUaM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <img src="https://media.giphy.com/media/LXHJRRjnviw7e/giphy.gif" width="50%"></img>
 </div>
