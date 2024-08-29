@@ -1,9 +1,3 @@
-<div align="center">
- <img src="https://media.giphy.com/media/LXHJRRjnviw7e/giphy.gif" width="50%"></img>
-</div>
-
-
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning javascript
