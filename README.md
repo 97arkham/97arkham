@@ -2,7 +2,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me:
-  - Telegram : [@Khairunarkham](https://t.me/khairunarkham)
   - linkedin : [@Khairunarkham](https://www.linkedin.com/in/khairunarkham)
 <!--
 ### Hi there 👋
